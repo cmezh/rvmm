@@ -1,6 +1,6 @@
 {
-  "version": "v7.92.0.977185651 (patches 1.4.3.mpp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/cmezh/rvmm/releases/download/2/googlephotos-devanced-module-v7.92.0.977185651-all.zip",
+  "version": "v7.92.0.977185651 (patches 1.4.4.mpp)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/cmezh/rvmm/releases/download/3/googlephotos-devanced-module-v7.92.0.977185651-all.zip",
   "changelog": "https://raw.githubusercontent.com/cmezh/rvmm/update/build.md"
 }
