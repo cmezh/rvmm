@@ -1,6 +1,6 @@
 {
-  "version": "v9.20.53 (patches 1.47.0.mpp)",
-  "versionCode": 21,
-  "zipUrl": "https://github.com/cmezh/rvmm/releases/download/21/music-morphe-module-v9.20.53-arm64-v8a.zip",
+  "version": "v9.30.53 (patches 2.0.0.mpp)",
+  "versionCode": 32,
+  "zipUrl": "https://github.com/cmezh/rvmm/releases/download/32/music-morphe-module-v9.30.53-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/cmezh/rvmm/update/build.md"
 }
